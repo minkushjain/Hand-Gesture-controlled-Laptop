@@ -7,7 +7,7 @@ In this project, I have implemented a simple Arduino based hand gesture control 
 
 It uses 'PySerial' and 'PyAutoGUI' libraries in Python to control the input ports and mimic the actions of mouse and keyboard.
 
-<img src="https://github.com/minkushjain/Hand-Gesture-controlled-Laptop/blob/master/img/IMG_5204.jpg" width="48" height="70">
+![alt text](https://github.com/minkushjain/Hand-Gesture-controlled-Laptop/blob/master/img/IMG_5204.jpg)
 
 ## Getting Started
 For controlling the web browser and windows, run 'webpage_gesture.ino' in Arduino IDE and 'webpage_gesture.ino' in Python IDLE.
@@ -24,6 +24,8 @@ Install 'pyserial' and 'pyautogui' in python using pip command
 -Jumper Wires
 
 -Laptop
+
+![alt text](https://github.com/minkushjain/Hand-Gesture-controlled-Laptop/blob/master/img/IMG_5205.jpg)
 
 ## Gestures
 
