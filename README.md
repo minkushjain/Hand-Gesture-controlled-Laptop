@@ -16,11 +16,15 @@ Install 'pyserial' and 'pyautogui' in python using pip command
 
 ## Components Required
 -Arduino UNO board
+
 -Ultrasonic Sensor x 2
+
 -Jumper Wires
+
 -Laptop
 
 ## Gestures
+
 ### VLC MEDIA PLAYER GESTURES:
 Action 1: When both the hands are placed up before the sensor at a particular far distance then the video in VLC player should Play/Pause.
 
