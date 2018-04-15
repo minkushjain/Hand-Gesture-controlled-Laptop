@@ -5,7 +5,9 @@ Hand Gestured controlled laptop using Arduino
 
 In this project, I have implemented a simple Arduino based hand gesture control where you can control some functions of your web browser like switching between tabs, scrolling up and down in web pages, shift between tasks (applications), play or pause a video and increase or decrease the volume (in VLC Player) with the help of hand gestures.
 
-It uses 'PySerial' and 'PyAutoGUI' libraries in Python to control the input ports and mimic the actions of mouse and keyboard
+It uses 'PySerial' and 'PyAutoGUI' libraries in Python to control the input ports and mimic the actions of mouse and keyboard.
+
+<img src="https://github.com/minkushjain/Hand-Gesture-controlled-Laptop/blob/master/img/IMG_5204.jpg" width="48" height="70">
 
 ## Getting Started
 For controlling the web browser and windows, run 'webpage_gesture.ino' in Arduino IDE and 'webpage_gesture.ino' in Python IDLE.
